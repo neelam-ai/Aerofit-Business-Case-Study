@@ -4,8 +4,8 @@
  
 Section 1: Defining Problem Statement and Analysing basic metrics.
 
-  Observations on shape of data, data types of all the attributes, 
-  conversion of categorical attributes to 'category' (If required), statistical summary
+          Observations on shape of data, data types of all the attributes, 
+          conversion of categorical attributes to 'category' (If required), statistical summary
 
            
 Section 2:Non-Graphical Analysis: Value counts and unique attributes.
